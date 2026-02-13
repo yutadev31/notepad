@@ -2,7 +2,7 @@
 
 [English](README.md) | [日本語](README.ja.md)
 
-A brutally minimal notepad that runs entirely in your browser.
+A minimal notepad that runs in your browser.
 
 ## Usage
 
