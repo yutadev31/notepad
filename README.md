@@ -1,5 +1,7 @@
 # Notepad
 
+[English](README.md) | [日本語](README.ja.md)
+
 A brutally minimal notepad that runs entirely in your browser.
 
 It has no features.
