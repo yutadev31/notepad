@@ -4,8 +4,6 @@
 
 A brutally minimal notepad that runs entirely in your browser.
 
-It has no features.
-
 ## Usage
 
 1. Open `https://yutadev31.github.io/notepad/` in your browser.
