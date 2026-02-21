@@ -32,11 +32,14 @@
     </style>
   </head>
   <body>
-    <textarea></textarea>
+    <textarea id="editor"></textarea>
     <script>
+      const $editor = document.getElementById("editor");
       window.addEventListener("beforeunload", (event) => {
-        event.preventDefault();
-        event.returnValue = "";
+        if ($editor.value) {
+          event.preventDefault();
+          event.returnValue = "";
+        }
       });
     </script>
   </body>
